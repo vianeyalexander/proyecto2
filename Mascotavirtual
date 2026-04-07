@@ -1,0 +1,16 @@
+class Mascota {
+    public String colores;
+    private Integer figuras;
+    public String tamaños;
+
+    public String juegan() {
+        return "La mascota está comiendo";
+    }
+
+    public String corren() {
+        return "La mascota está jugando";
+   
+   public String come  {
+          return ¨la mascota come¨
+         }
+
