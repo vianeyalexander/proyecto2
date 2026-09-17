@@ -1,10 +1,11 @@
 class Telefono {
-    public String forma;
-    private Integer bateria;
-    protected String camara;
-
+    public string forma;
+    private integer bateria;
+    protected string camara;
+    
     public void vender(){
     }
     private void reproducirVideo(){
+        
     }
 }
